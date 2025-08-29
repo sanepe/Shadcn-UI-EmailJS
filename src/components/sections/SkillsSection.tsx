@@ -12,7 +12,7 @@ const SkillsSection = () => {
       color: 'from-blue-600 to-cyan-600',
       skills: [
         { name: 'JavaScript', level: 95, icon: '⚡' },
-        { name: 'TypeScript', level: 90, icon: '🔷' },
+        { name: 'TypeScript', level: 86, icon: '🔷' },
         { name: 'React', level: 90, icon: '⚛️' },
         { name: 'Next.js', level: 85, icon: '▲' },
         { name: 'HTML/CSS', level: 95, icon: '🎨' },
@@ -27,20 +27,18 @@ const SkillsSection = () => {
         { name: 'Python', level: 90, icon: '🐍' },
         { name: 'Express.js', level: 80, icon: '🚀' },
         { name: 'MongoDB', level: 75, icon: '🍃' },
-        { name: 'PostgreSQL', level: 70, icon: '🐘' },
-        { name: 'REST APIs', level: 85, icon: '🔗' }
+        { name: 'PostgreSQL', level: 70, icon: '🐘' }
       ]
     },
     {
       title: 'Hardware & Tools',
       color: 'from-purple-600 to-pink-600',
       skills: [
-        { name: 'Arduino (C++)', level: 88, icon: '🔧' },
+        { name: 'Arduino (C++)', level: 73, icon: '🔧' },
         { name: 'Git/GitHub', level: 90, icon: '📚' },
         { name: 'VS Code', level: 95, icon: '💻' },
-        { name: 'Linux', level: 75, icon: '🐧' },
-        { name: 'Docker', level: 70, icon: '🐳' },
-        { name: 'IoT Systems', level: 80, icon: '📡' }
+        { name: 'Linux', level: 68, icon: '🐧' },
+        { name: 'Docker', level: 70, icon: '🐳' }
       ]
     }
   ];

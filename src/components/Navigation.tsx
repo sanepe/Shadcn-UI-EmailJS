@@ -32,7 +32,7 @@ const Navigation = () => {
   const socialLinks = [
     { icon: Github, href: 'https://github.com/sanepe', label: 'GitHub' },
     { icon: Linkedin, href: 'https://linkedin.com/in/santiago-lepe-9a048533a', label: 'LinkedIn' },
-    { icon: Instagram, href: 'https://instagram.com/sanepe', label: 'Instagram' }
+    { icon: Instagram, href: 'https://instagram.com/sjav.iw', label: 'Instagram' }
   ];
 
   const handleNavClick = (href: string) => {

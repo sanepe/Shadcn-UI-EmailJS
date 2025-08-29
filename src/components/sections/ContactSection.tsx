@@ -55,7 +55,7 @@ const ContactSection = () => {
     {
       icon: Instagram,
       name: 'Instagram',
-      url: 'https://instagram.com/sanepe',
+      url: 'https://instagram.com/sjav.iw',
       color: 'hover:text-gray-600 dark:hover:text-gray-400'
     }
   ];

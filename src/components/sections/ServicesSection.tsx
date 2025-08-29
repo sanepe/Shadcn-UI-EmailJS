@@ -38,8 +38,6 @@ const ServicesSection = () => {
       description: t('services.microcontrollers.description'),
       features: [
         'Proyectos Arduino',
-        'Sistemas IoT',
-        'Sensores y actuadores',
         'Automatización del hogar'
       ],
       color: 'from-purple-600 to-pink-600'
