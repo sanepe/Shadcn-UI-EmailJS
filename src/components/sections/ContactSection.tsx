@@ -29,7 +29,7 @@ const ContactSection = () => {
       icon: Phone,
       title: 'WhatsApp',
       value: '+52 56 6410 1914',
-      link: 'https://wa.me/5256641091914'
+      link: 'https://wa.me/525664101914'
     },
     {
       icon: MapPin,
