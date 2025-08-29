@@ -46,10 +46,11 @@ const SkillsSection = () => {
   ];
 
   const certifications = [
-    'Google IT Support Professional Certificate',
-    'Meta Front-End Developer Certificate',
-    'IBM Data Science Professional Certificate',
-    'Microsoft Azure Fundamentals',
+    'PCAP (Certified Associate in Python Programming)',
+    'PCPP (Certified Professional in Python Programming) (En progreso)',
+    'IBM Data Science with Python',
+    'freeCodeCamp Full Stack Developer Certification',
+    'freeCodeCamp Relational Database Certification',
     'AWS Cloud Practitioner (En progreso)'
   ];
 
